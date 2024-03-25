@@ -1,0 +1,21 @@
+1. A can do a work in 6 days, B can do a work in 4 days. How many days can A and B together complete the work?
+
+    Solution:
+        LCM of 6 & 4 = 12
+        A's Efficiency = 2
+        B's Efficiency = 3
+        A & B Efficiency = 12/5
+
+        Answer : 12/5 days
+
+
+2. A can do a work in 10 days, A & B can do a work in 5 days. In how many days can b can complete the work?
+
+    Solution:
+        1/10 + 1/x = 1/5
+        1/x = 1/5 - 1/10
+        1/x = (2-1)/10
+        1/x = 1/10
+        x = 10
+
+        Answer : 10 days
