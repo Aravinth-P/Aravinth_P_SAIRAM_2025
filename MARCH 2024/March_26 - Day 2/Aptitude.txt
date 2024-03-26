@@ -1,1 +1,20 @@
+1. Amruta can do a piece of work in 20 days. Narmadha is 25% more efficient that Amruta . The number of days taken by Narmadha to complete the work is..
 
+      Solution :
+            Amruta Efficiency = 1/20
+            25% of 20 = 5
+            20 / 5 = 4 
+            20 - 4 = 16 days
+      Answer : 16 days
+
+2. A can finish a work in 24 days, B in 9 days and c in 12 days. B and C start the work but are forced to leave after 3 days. Remaining work done by A is...
+
+      Solution :
+            LCM of 24, 9 & 12 is 72
+            A's Efficiency = 3
+            B's Efficiency = 8
+            C's Efficiency = 6
+            B & C completed work after 3 days = 14 * 3 = 42
+            Remaining work = 72 - 42 =30
+            A completeed in 30 / 3 = 10 
+     Answer : 10 days
