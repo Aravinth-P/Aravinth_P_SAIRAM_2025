@@ -1,0 +1,27 @@
+1. Anil and Bhaskar can do a piece of work individually in 12 and 20 days respectively. They work together for 6 days before Anil decides to leave. 
+   How many days will it take Bhaskar to complete the work on his own?
+    A. 4  B. 14  C. 6  D. 3
+
+    Solution :
+              LCM of 12 and 20 = 60
+              Anil's Efficency = 5
+              Bhaskar's Efficency = 3
+              Work completed in 6 days = 48
+              Remaining Work = 60 - 48 = 12
+              work completed by Bhaskar = 12/3 = 4
+
+    Answer : 4 days
+
+2. Dilip and Samrat can do a piece of work in 16 days and 24 days respectively. Samrat works alone for 15 days and leaves. 
+   In how many days can Dilip complete the remaining work?
+    A. 8  B. 10  C. 6  D. 7
+
+Solution :
+              LCM of 16 and 24 = 48
+              Dilip's Efficency = 3
+              Samrat's Efficency = 2
+              Work completed in 15 days = 30
+              Remaining Work = 48 - 30 = 18
+              work completed by Dilip = 18/3 = 6
+
+    Answer : 6 days
