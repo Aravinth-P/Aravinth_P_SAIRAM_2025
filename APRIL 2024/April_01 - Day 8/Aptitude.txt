@@ -1,1 +1,28 @@
+1. A can do a work in 15 days and B in 20 days. If they work on it together for 4 days, then the fraction of the work that is left is :
+      A)1/4
+      B)1/10
+      C)7/15
+      D)8/15
 
+      Solution :
+              LCM of 15 and 20 = 60
+              A's Efficency = 4
+              B's Efficency = 3
+              work done for 4 days = 7*4 = 28
+              Remaining Work  = 32
+
+      Answer : 8/15
+
+
+2. Twenty women can do a work in sixteen days. Sixteen men can complete the same work in fifteen days. What is the ratio between the capacity of a man and a woman?
+A)3 : 4
+B)4 : 3
+C)5 : 3
+D)5 : 2
+
+      Solution :
+              Workdays of women = 16*20 = 320
+              Workdays of men = 16*15 = 240
+              Ratio = 320 : 240 = 4 : 3
+
+      Answer : 3 : 4
