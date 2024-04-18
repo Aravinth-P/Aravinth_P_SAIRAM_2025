@@ -5,8 +5,26 @@ B)9 min.
 C)10 min.
 D)15 min
 
-2.A tank is filled by three pipes with uniform flow. The first two pipes operating simultaneously fill the tank in the same time during which the tank is filled by the third pipe alone. The second pipe fills the tank 5 hours faster than the first pipe and 4 hours slower than the third pipe. The time required by the first pipe is:
+    Solution :
+          A's work rate = 1/37
+          B's work rate = 1/45
+          A's 30 minutes = 30/37
+          Remaining work = 1- 30/37 = 7/37
+          -> 45 * 7/37 = 8.5 ~ 9
+
+    Answer : 9 min
+
+2.A tank is filled by three pipes with uniform flow. The first two pipes operating simultaneously fill the tank in the same time during which the tank is 
+filled by the third pipe alone. The second pipe fills the tank 5 hours faster than the first pipe and 4 hours slower than the third pipe. 
+The time required by the first pipe is:
 A)6 hours
 B)10 hours
 C)15 hours
 D)30 hours
+
+    Solution :
+          1/x + 1/(x-5) = 1/(x-9)
+          x-5+x / x(x-5) = 1/(x-9)
+          x = 15
+
+    Answer : 15 hours
