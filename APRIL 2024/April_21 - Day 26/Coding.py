@@ -7,4 +7,15 @@ print(max(a,b))
 print(min(a,b))
 
 
+a,b,c=map(int,input().split())
+c=str(c)
+s={
+  '+' : lambda a,b : a+b,
+  '-' : lambda a,b : a-b,
+  '*' : lambda a,b : a*b,
+  '/' : lambda a,b : int(a/b)
+}
+print(s[c](a,b))
+
+
 
