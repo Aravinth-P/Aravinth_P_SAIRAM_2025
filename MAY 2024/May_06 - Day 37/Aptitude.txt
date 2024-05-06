@@ -4,7 +4,7 @@ b) NQJR
 c) MQKR
 d) MQJR
 
-Answer : 
+Answer : no options
 
 In a certain code language, "WATER" is written as "YCVGT". How is "FIRE" written in that code?
 a) GKTG
@@ -12,4 +12,4 @@ b) GKSG
 c) GKTJ
 d) GKQG
 
-Answer : 
+Answer : HKTG
