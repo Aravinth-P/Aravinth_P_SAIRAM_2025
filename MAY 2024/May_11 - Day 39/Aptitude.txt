@@ -1,0 +1,18 @@
+1.ELFA, GLHA, ILJA, ___, MLNA
+
+A, OLPA
+B, KLMA
+C, LLMA
+D, KLLA
+
+Answer : KLLA
+
+2.In a certain code, MENTION is written as LNEITNO. How is PATTERN written in that code? 
+
+(a) APTTREM           
+(b) PTAETNR           
+(c) OTAETNR      
+(d) OTAETRN        
+(e) None of these
+
+Answer : OTAETNR
