@@ -1,0 +1,17 @@
+1.If ROSE is coded as 6821, CHAIR is coded as 73456 and PREACH is coded as 961473, what will be the code for SEARCH ?
+
+A) 246173
+B) 214673
+C) 214763
+D) 216473
+
+Answer : 214673
+
+2.In a certain code, MONKEY is written as XDJMNL. How is TIGER written in that code ?
+
+A) SHFDQ
+B) HFDSQ
+C) RSAFD
+D) QDFHS
+
+Answer : QDFHS
